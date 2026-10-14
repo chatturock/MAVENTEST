@@ -18,7 +18,7 @@ public class MainTest {
         int result = Main.largest(5, 5, 5);
 
         System.out.println("Largest of 5, 5, 5 = " + result);
-        assertEquals(6, result);
+        assertEquals(5, result);
     }
 }
 
